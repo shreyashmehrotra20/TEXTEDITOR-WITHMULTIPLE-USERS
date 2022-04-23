@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moongoose": "^0.0.5",
+    "moongose": "^1.0.0"
+  }
+}
